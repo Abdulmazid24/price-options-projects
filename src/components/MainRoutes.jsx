@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 
 const MainRoutes = () => {
   return (
-    <div>
+    <div className="m-4 ">
       {/* <DaisyNav></DaisyNav> */}
       <Navbar></Navbar>
       <Outlet></Outlet>
