@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 20,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Access during off-peak hours",
+      "Monthly fitness assessment",
+      "Basic nutrition guidance"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 35,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "1 personal training session per month",
+      "Extended gym hours access",
+      "Monthly fitness assessment",
+      "Standard nutrition guidance",
+      "Access to massage chairs"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 50,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "4 personal training sessions per month",
+      "Access to pool and sauna",
+      "Priority booking for classes"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "VIP Plan",
+    "price": 75,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "Unlimited personal training sessions",
+      "Access to pool and sauna",
+      "Priority booking for classes",
+      "Access to VIP lounge",
+      "Complimentary drinks and snacks"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Student Plan",
+    "price": 15,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "Discounted personal training sessions",
+      "Access during off-peak hours",
+      "Study lounge access"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Senior Plan",
+    "price": 18,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "Senior wellness programs",
+      "Access during off-peak hours",
+      "Monthly health seminars"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Couples Plan",
+    "price": 60,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "2 personal training sessions per month",
+      "Couples fitness programs",
+      "Access to pool and sauna",
+      "Priority booking for classes"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Family Plan",
+    "price": 90,
+    "currency": "USD",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free Wi-Fi",
+      "Group fitness classes",
+      "4 personal training sessions per month",
+      "Family fitness programs",
+      "Access to pool and sauna",
+      "Priority booking for classes",
+      "Childcare services"
+    ]
+  }
+]
